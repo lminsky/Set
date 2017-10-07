@@ -14,7 +14,7 @@ function setup() {
     }
   }
 
-  dealMore(9);
+  dealMore(12);
 }
 
 function draw() {
